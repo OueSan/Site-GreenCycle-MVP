@@ -1,22 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "Se você utilizar este repositório, cite-o da seguinte forma."
+title: Web Application Template
+message: >-
+  Repositório padrão para o Eixo 1 - Projeto 1: Aplicações
+  Web da PUC Minas.
+type: software
 authors:
-  * Lucas Israel Franca Gontijo
-  * Lucas Oue
-  * Alexandre Henrique Silveira
-  * Rafael Contarini Ferreira Barbosa
-  * Suelen Larissa Alvares Marchito
-  * Thiago Campos Brandao Mol
-    orcid: "https://orcid.org/0000-0002-1825-0097" # Substitua com ORCID
-title: "GreenCycle"
-version: "1.0.0"
-date-released: "2024-12-01"
-identifiers:
-  - type: "doi"
-    value: "https://doi.org/10.xxxx/xxxxx" # Substitua com  DOI
+  - given-names: Aluno 1
+    family-names: Nome Completo
+    email: aluno@pucminas.br
+    affiliation: PUC Minas
+  - given-names: Hugo
+    name-particle: 'B '
+    family-names: de Paula
+    name-suffix: Prof.
+    email: hugo@pucminas.br
+    affiliation: PUC Minas
+    orcid: 'https://orcid.org/0000-0002-6193-3205'
+repository-code: >-
+  https://github.com/ICEI-PUC-Minas-PMV-SI/WebApplicationProject-Template
+abstract: >-
+  Descrever resumidamente, em um ou dois parágrafos, o
+  projeto que foi desenvolvido.
 keywords:
-  - "Reciclagem"
-  - "Resíduos"
-  - "GreenCycle"
-license: "MIT"
-repository: "https://github.com/usuario/nome-do-repositorio"
+  - Desenvolvimento Web
+  - HTML
+  - CSS
+  - JavaScript
+  - Template
+date-released: '2024-06-23'
